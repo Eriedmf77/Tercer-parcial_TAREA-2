@@ -44,8 +44,13 @@ _15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 _ 0.25
 
 ![image](https://user-images.githubusercontent.com/85728185/131853801-bb8172f1-ae48-403a-be9f-350fdc71d30c.png)
 
+## 15-5 Relaciones angular y gráfica paras las ondas seno ##
 
-**Capítulo 16**
+_21. Convierta los siguientes ángulos de grados a radianes:_
+
+![image](https://user-images.githubusercontent.com/85728185/131855168-fa70376a-4f8e-497a-b76a-dd70a9ab4504.png)
+
+** Capítulo 16 **
 
 
 ## 3. Explicación y Resolución ejercicios
