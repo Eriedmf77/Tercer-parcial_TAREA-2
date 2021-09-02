@@ -198,6 +198,8 @@ https://youtu.be/0AaUgj0w4P4
 
 ## 5.Conclusiones
 
+_En la corriente alterna sinusoidal cualquier función periódica se puede expresar como una suma de senos y cosenos de distintas frecuencias._
+
 
 ## 6.Bibliografía 
 
