@@ -83,6 +83,13 @@ _9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77.
 
 ![image](https://user-images.githubusercontent.com/85728185/131852921-387d11d2-9676-4f34-9501-6a20a14e253d.png)
 
+_11. ¿Cuál es el voltaje pico a pico para la ﬁgura 15-77? ¿Cuál es la corriente pico a pico de la ﬁgura 15-78?_
+
+![image](https://user-images.githubusercontent.com/85259801/131889741-53b42be8-5b32-4e9b-af28-efbb1098666c.png)
+
+![image](https://user-images.githubusercontent.com/85259801/131889763-8abbdfa1-5564-4a48-806f-f5f326a2a091.png)
+
+
 _13. A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?_
 
 ![image](https://user-images.githubusercontent.com/84418933/131870029-53881f40-32d0-4446-9894-5afbef694bb7.png)
@@ -92,6 +99,12 @@ _15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 _ 0.25
 ![image](https://user-images.githubusercontent.com/85728185/131853801-bb8172f1-ae48-403a-be9f-350fdc71d30c.png)
 
 ## 15-5 Relaciones angular y gráfica paras las ondas seno ##
+
+**15-5 Relaciones angular y gráﬁca paras las ondas seno**
+
+_17. Dado el voltaje v = Vm sen a. Si Vm = 240 V,¿qué valor tiene v cuando a = 37°?_
+
+
 
 _19. Un voltaje sinusoidal tiene un valor de 50 V cuando a = 150°. ¿Qué valor tiene V..?_
 
