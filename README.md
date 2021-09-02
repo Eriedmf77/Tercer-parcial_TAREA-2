@@ -30,7 +30,7 @@ _Determinar los circuitos transitorios en el circuito RL explicando el funcionam
 
 **Capítulo 15**
 
-## 15-2 Generación de voltajes de ca ##
+### 15-2 Generación de voltajes de ca ###
 
 _3. a. ¿Que significa valor instantaneo?_
 
