@@ -27,6 +27,7 @@ _Determinar los circuitos transitorios en el circuito RL explicando el funcionam
 
 **Capítulo 16**
 
+![image](https://user-images.githubusercontent.com/85259801/131885646-7a8673bf-94ae-4203-81bf-bcd9c6d2aedf.png)
 
 ## 3. Explicación y Resolución ejercicios
 
@@ -206,16 +207,6 @@ _En la corriente alterna sinusoidal cualquier función periódica se puede expre
 _Circuitos de Corriente Alterna. R, L, C, RL, RC y RLC. (s. f.). AreaTecnologia. Recuperado 2 de septiembre de 2021, de https://www.areatecnologia.com/electricidad/circuitos-de-corriente-alterna.html_
 
 _Robbins, A., & Miller, W. C. (2008). Análisis de circuitos: teoría y práctica. Cengage Learning Editores_
-
-
-
-
-
-
-
-
-
-
 
 
 
