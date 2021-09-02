@@ -40,6 +40,10 @@ _9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77.
 
 ![image](https://user-images.githubusercontent.com/85728185/131852921-387d11d2-9676-4f34-9501-6a20a14e253d.png)
 
+_15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 _ 0.25T2 y f1 _ 10 kHz, ¿cuales son los valores de T1, T2 y f2?_
+
+![image](https://user-images.githubusercontent.com/85728185/131853801-bb8172f1-ae48-403a-be9f-350fdc71d30c.png)
+
 
 **Capítulo 16**
 
