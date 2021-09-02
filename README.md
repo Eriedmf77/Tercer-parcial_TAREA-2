@@ -90,13 +90,45 @@ _27. Calcule q en radianes por segundo para cada uno de los siguientes casos:_
 
 ![image](https://user-images.githubusercontent.com/85728185/131857039-254b2e49-5f41-480b-950c-280b89e4af0f.png)
 
+_31. Una onda seno tiene un voltaje pico a pico de 40 V y T = 50 ms. Determine su ecuación._
+
+![image](https://user-images.githubusercontent.com/84418933/131870967-3da14d0c-e7b9-4760-a8e2-58a1f1799e18.png)
+
 _33. Dada i _ 47 sen 8260t mA, determine la corriente cuando t _ 0 s, 80, 410 y 1200s._
 
 ![image](https://user-images.githubusercontent.com/85728185/131858309-c32727ff-d767-4122-90f8-037b31be9da7.png)
 
+_37. Dada v=5 sen(wt + 45). Si w = 20 radsı,¡qué valor tiene v cuando t = 20, 75 y 90 ms?_
+
+![image](https://user-images.githubusercontent.com/84418933/131871070-19cf631c-e81d-41f1-a17a-131161bab316.png)
+
 _39. Determine la ecuacion para la forma de onda que se muestra en la figura 15-84._
 
 ![image](https://user-images.githubusercontent.com/85728185/131859231-3db667af-e671-42b2-b766-6302286f625f.png)
+
+_49. Calcule Iprom o Vprom para las formas de onda de la figura 15-88._
+
+![image](https://user-images.githubusercontent.com/84418933/131871146-e6c69454-b0e2-4059-8e26-3bc4ab8a9cb1.png)
+
+![image](https://user-images.githubusercontent.com/84418933/131871201-722ead72-9865-41e7-812b-c7afd8830824.png)
+
+_55. Determine los valores rms para cada uno de los siguientes casos:_ 
+
+_a. Una batería de 12 V_
+
+_b. - 24 sen(wt + 739) mA_ 
+
+_c. 10 + 24 sen w V_ 
+
+_d. 45 - 27 cos 2 wt V_
+
+![image](https://user-images.githubusercontent.com/84418933/131871370-ca5c1b2e-0f19-4f10-b656-a7138082628a.png)
+
+_61. Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?_
+
+![image](https://user-images.githubusercontent.com/84418933/131871463-d8ff840f-9b5d-427f-87a9-61f90866521c.png)
+
+![image](https://user-images.githubusercontent.com/84418933/131871495-a2da5415-8d74-4234-ac14-2ae62414ae1a.png)
 
 
 **Capítulo 16**
