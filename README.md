@@ -100,7 +100,6 @@ _15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 _ 0.25
 
 ## 15-5 Relaciones angular y gráfica paras las ondas seno ##
 
-**15-5 Relaciones angular y gráﬁca paras las ondas seno**
 
 _17. Dado el voltaje v = Vm sen a. Si Vm = 240 V,¿qué valor tiene v cuando a = 37°?_
 
