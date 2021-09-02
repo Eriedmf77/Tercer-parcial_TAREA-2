@@ -34,6 +34,12 @@ _b. Para la figura 15-74, determine los voltajes instantaneos en t _ 0, 1, 2, 3,
 
 ![image](https://user-images.githubusercontent.com/85728185/131851982-04c28c71-0f45-46ca-9085-7c292edc1420.png)
 
+## 15-4 Frecuencia, periodo, amplitud y valor pico##
+
+_9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77._
+
+![image](https://user-images.githubusercontent.com/85728185/131852921-387d11d2-9676-4f34-9501-6a20a14e253d.png)
+
 
 **Capítulo 16**
 
