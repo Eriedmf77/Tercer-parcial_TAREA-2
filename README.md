@@ -22,6 +22,8 @@ _Determinar los circuitos transitorios en el circuito RL explicando el funcionam
 
 **Capítulo 15**
 
+![image](https://user-images.githubusercontent.com/85259801/131877823-b24d39c0-222e-4b36-96ce-9a4ced7a3c28.png)
+
 
 **Capítulo 16**
 
