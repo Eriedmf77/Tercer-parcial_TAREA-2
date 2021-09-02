@@ -201,6 +201,9 @@ https://youtu.be/0AaUgj0w4P4
 
 ## 6.Bibliografía 
 
+_Circuitos de Corriente Alterna. R, L, C, RL, RC y RLC. (s. f.). AreaTecnologia. Recuperado 2 de septiembre de 2021, de https://www.areatecnologia.com/electricidad/circuitos-de-corriente-alterna.html_
+
+_Robbins, A., & Miller, W. C. (2008). Análisis de circuitos: teoría y práctica. Cengage Learning Editores_
 
 
 
