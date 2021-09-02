@@ -22,6 +22,14 @@ _Determinar los circuitos transitorios en el circuito RL explicando el funcionam
 
 **Capítulo 15**
 
+
+** Capítulo 16 **
+
+
+## 3. Explicación y Resolución ejercicios
+
+**Capítulo 15**
+
 ## 15-2 Generación de voltajes de ca ##
 
 _3. a. ¿Que significa valor instantaneo?_
@@ -64,12 +72,6 @@ _39. Determine la ecuacion para la forma de onda que se muestra en la figura 15-
 
 ![image](https://user-images.githubusercontent.com/85728185/131859231-3db667af-e671-42b2-b766-6302286f625f.png)
 
-** Capítulo 16 **
-
-
-## 3. Explicación y Resolución ejercicios
-
-**Capítulo 15**
 
 **Capítulo 16**
 
