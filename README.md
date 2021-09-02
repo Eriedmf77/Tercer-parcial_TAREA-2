@@ -201,6 +201,7 @@ https://youtu.be/0AaUgj0w4P4
 
 _En la corriente alterna sinusoidal cualquier función periódica se puede expresar como una suma de senos y cosenos de distintas frecuencias._
 
+_los numeros complejos facilitan el analisis y resolucion de circuitos C.A_
 
 ## 6.Bibliografía 
 
