@@ -177,6 +177,11 @@ _25. Para la figura 16-53, si_
 ![image](https://user-images.githubusercontent.com/84418933/131873343-acf4aec7-1650-447f-b123-1cf141e96c15.png)
 ![image](https://user-images.githubusercontent.com/84418933/131873371-a8d521b8-e6e3-4241-aac5-25a7abfc75a5.png)
 
+_31. Determine la impedancia de cada elemento de circuito de la figura 16-55._
+
+![image](https://user-images.githubusercontent.com/84418933/131873509-c3e19184-1d8c-4507-bf60-402c4ff8d73b.png)
+
+![image](https://user-images.githubusercontent.com/84418933/131873529-ebef4d72-05a2-4f60-920d-79089988fa8b.png)
 
 
 ## 4.Video
