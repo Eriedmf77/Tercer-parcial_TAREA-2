@@ -49,6 +49,24 @@ _b. Para la figura 15-74, determine los voltajes instantaneos en t _ 0, 1, 2, 3,
 
 ![image](https://user-images.githubusercontent.com/85728185/131851982-04c28c71-0f45-46ca-9085-7c292edc1420.png)
 
+_5. La fuente de la ﬁgura 15-76 tiene la forma de onda de la ﬁgura 15-74. Determine la corriente en t = 0,1,2,3,4,5,6,7,y 8 ms. Incluya el signo._
+
+![image](https://user-images.githubusercontent.com/85259801/131889410-e25dd407-f70d-4a67-aeca-1895b3ea5aa6.png)
+![image](https://user-images.githubusercontent.com/85259801/131889423-843e85c6-6bbc-4857-a5a4-2624dc05e261.png)
+
+![image](https://user-images.githubusercontent.com/85259801/131889449-27ad5bb0-40ba-4166-bbc6-c669d40cb74a.png)
+![image](https://user-images.githubusercontent.com/85259801/131889472-4efbf4ed-dcdb-4cc9-aed4-aa8c3630d222.png)
+![image](https://user-images.githubusercontent.com/85259801/131889490-9fe8349d-056a-455e-8c64-17e028e21db8.png)
+
+![image](https://user-images.githubusercontent.com/85259801/131889515-b0aaba98-093d-4457-ae9a-a1f44450a8ed.png)
+![image](https://user-images.githubusercontent.com/85259801/131889532-bcd3a2bf-98fc-4e4c-92a0-ed1680072397.png)
+![image](https://user-images.githubusercontent.com/85259801/131889545-c66255e7-e57d-4c3f-988d-525530f8bafd.png)
+
+![image](https://user-images.githubusercontent.com/85259801/131889557-7383c493-9de1-42d6-b65e-04462c222b26.png)
+![image](https://user-images.githubusercontent.com/85259801/131889581-335b11f0-5023-4bfc-8e26-3fdcbd2d0ec6.png)
+![image](https://user-images.githubusercontent.com/85259801/131889594-c82f532a-e572-4ab3-a797-74d710428312.png)
+
+
 _7. Para cada uno de los siguientes, determine la frecuencia:_
 
 _a. T = 0.5 s_ 
