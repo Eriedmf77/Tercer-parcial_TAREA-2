@@ -132,6 +132,51 @@ _61. Determine los valores rms para la forma de onda de la figura 15-94. ¿Por q
 
 
 **Capítulo 16**
+_1. Convierta cada uno de los siguientes números a forma polar:_ 
+
+_a. 5 + 12_
+
+_b. 9 - j6_
+
+_c. -8 + j15_ 
+
+_d. - 10 - 4_
+
+![image](https://user-images.githubusercontent.com/84418933/131872876-0c9530f9-3ae4-4f18-bc80-d4225ba7cb1f.png)
+
+_7. Reduzca cada corriente siguiente a forma polar:_
+
+![image](https://user-images.githubusercontent.com/84418933/131872943-12d8dae1-3fe3-4292-9701-5f474f7c57c5.png)
+
+![image](https://user-images.githubusercontent.com/84418933/131872991-50c66b1c-4593-42ec-8a2f-064372c3a90a.png)
+
+_13. Para la figura 16-50, is = 25 sen (wt + 36) mA e iz = 40 cos (wt - 109) mA._
+
+_a. Determine los fasores I1, I2 elt._ 
+
+_b. Determine la ecuación para ir en el dominio del tiempo._
+
+![image](https://user-images.githubusercontent.com/84418933/131873078-afacc002-35cb-4252-bdff-c8fe9e0cc702.png)
+
+![image](https://user-images.githubusercontent.com/84418933/131873119-4da17fbd-7cdd-4bd4-8006-012248d18ff9.png)
+
+_19. Dos resistores R = 10 kN y R2 = 12.5 kA están en serie. Si i = 14.7 sen (wt+ 399) mA_
+
+_a. ¿Cuánto valen vr, y vry?_ 
+
+_b. Calcule vs = vr, + vr, y compárelo con vr calculada a partir de vr = i RT._
+
+![image](https://user-images.githubusercontent.com/84418933/131873223-9aab620c-2913-439d-bfa0-5e0649df8825.png)
+
+_25. Para la figura 16-53, si_
+
+![image](https://user-images.githubusercontent.com/84418933/131873281-82f6ffcb-49fc-4d38-86a9-0b3acec28241.png)
+
+![image](https://user-images.githubusercontent.com/84418933/131873306-a09c4ec3-ed7b-4ef0-903b-f5d3d1324939.png)
+
+![image](https://user-images.githubusercontent.com/84418933/131873343-acf4aec7-1650-447f-b123-1cf141e96c15.png)
+![image](https://user-images.githubusercontent.com/84418933/131873371-a8d521b8-e6e3-4241-aac5-25a7abfc75a5.png)
+
 
 
 ## 4.Video
