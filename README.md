@@ -23,7 +23,7 @@ _Determinar los circuitos transitorios en el circuito RL explicando el funcionam
 **Capítulo 15**
 
 
-**Capítulo 16
+**Capítulo 16**
 
 
 ## 3. Explicación y Resolución ejercicios
