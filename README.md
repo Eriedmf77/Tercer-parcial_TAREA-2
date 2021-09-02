@@ -56,6 +56,11 @@ _27. Calcule q en radianes por segundo para cada uno de los siguientes casos:_
 
 ![image](https://user-images.githubusercontent.com/85728185/131857039-254b2e49-5f41-480b-950c-280b89e4af0f.png)
 
+_33. Dada i _ 47 sen 8260t mA, determine la corriente cuando t _ 0 s, 80, 410 y 1200 _s._
+
+
+![image](https://user-images.githubusercontent.com/85728185/131858309-c32727ff-d767-4122-90f8-037b31be9da7.png)
+
 ** Capítulo 16 **
 
 
