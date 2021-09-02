@@ -188,9 +188,11 @@ _31. Determine la impedancia de cada elemento de circuito de la figura 16-55._
 
 **Capítulo 15**
 
+https://youtu.be/qkAuxBXWfEY
 
 **Capítulo 16**
 
+https://youtu.be/0AaUgj0w4P4
 
 ## 5.Conclusiones
 
