@@ -50,6 +50,12 @@ _21. Convierta los siguientes ángulos de grados a radianes:_
 
 ![image](https://user-images.githubusercontent.com/85728185/131855168-fa70376a-4f8e-497a-b76a-dd70a9ab4504.png)
 
+## 15-6 Voltajes y corrientes como funciones del tiempo ##
+
+_27. Calcule q en radianes por segundo para cada uno de los siguientes casos:_
+
+![image](https://user-images.githubusercontent.com/85728185/131857039-254b2e49-5f41-480b-950c-280b89e4af0f.png)
+
 ** Capítulo 16 **
 
 
