@@ -18,6 +18,12 @@ _Determinar los circuitos transitorios en el circuito RL explicando el funcionam
 
 ***Objetivos Específicos***
 
+_Analizar los diferentes tipos de generadores: generadores de tensión y corriente, que a su vez se pueden descomponer en ideales y reales._
+
+_Comprender la diferencia de fase que existe entre potencial e intensidad de la corriente en un circuito de CA._
+
+_Determinar y entender la resonancia del circuito RLC y su aplicación en filtros. Calcule la relación entre la diferencia de potencial y la corriente en el dipolo de la serie RLC._
+
 ## 2.Marco Teórico
 
 **Capítulo 15**
