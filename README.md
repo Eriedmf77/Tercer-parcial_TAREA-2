@@ -233,6 +233,10 @@ _En la corriente alterna sinusoidal cualquier función periódica se puede expre
 
 _los numeros complejos facilitan el analisis y resolucion de circuitos C.A_
 
+_Como sabemos ss mucho más fácil tratar los elementos del circuito como impedancias y analizarlos en el dominio fasorial que analizarlos en función del tiempo._
+
+_Para esto se realizó los conceptos de frecuencia, período, amplitud y pico, y se han introducido los conceptos de elementos fasoriales R, L y C e impedancia._
+
 ## 6.Bibliografía 
 
 _Circuitos de Corriente Alterna. R, L, C, RL, RC y RLC. (s. f.). AreaTecnologia. Recuperado 2 de septiembre de 2021, de https://www.areatecnologia.com/electricidad/circuitos-de-corriente-alterna.html_
