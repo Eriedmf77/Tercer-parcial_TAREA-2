@@ -22,6 +22,18 @@ _Determinar los circuitos transitorios en el circuito RL explicando el funcionam
 
 **Capítulo 15**
 
+## 15-2 Generación de voltajes de ca ##
+
+_3. a. ¿Que significa valor instantaneo?_
+
+_Un valor que tiene la tensión en un determinado instante de tiempo o para un determinado ángulo._
+
+_b. Para la figura 15-74, determine los voltajes instantaneos en t _ 0, 1, 2, 3, 4, 5, 6, 7 y 8 ms._
+
+![image](https://user-images.githubusercontent.com/85728185/131851939-3c11767e-6b5d-469c-b1e8-a4bc82da2cb6.png)
+
+![image](https://user-images.githubusercontent.com/85728185/131851982-04c28c71-0f45-46ca-9085-7c292edc1420.png)
+
 
 **Capítulo 16**
 
