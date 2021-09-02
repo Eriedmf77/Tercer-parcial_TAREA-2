@@ -32,6 +32,10 @@ _Determinar los circuitos transitorios en el circuito RL explicando el funcionam
 
 ### 15-2 Generación de voltajes de ca ###
 
+_1. ¿A que se refiere “voltaje de ca" y "corriente de ca"?_
+
+![image](https://user-images.githubusercontent.com/84418933/131869764-17488121-7e22-43af-8aec-32a3ad07e372.png)
+
 _3. a. ¿Que significa valor instantaneo?_
 
 _Un valor que tiene la tensión en un determinado instante de tiempo o para un determinado ángulo._
@@ -42,11 +46,25 @@ _b. Para la figura 15-74, determine los voltajes instantaneos en t _ 0, 1, 2, 3,
 
 ![image](https://user-images.githubusercontent.com/85728185/131851982-04c28c71-0f45-46ca-9085-7c292edc1420.png)
 
+_7. Para cada uno de los siguientes, determine la frecuencia:_
+
+_a. T = 0.5 s_ 
+
+_b. T = 100 s_ 
+
+_c. 5T = 80 us_
+
+![image](https://user-images.githubusercontent.com/84418933/131869889-a8174674-3418-4a38-8583-d8731d0c1528.png)
+
 ## 15-4 Frecuencia, periodo, amplitud y valor pico ##
 
 _9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77._
 
 ![image](https://user-images.githubusercontent.com/85728185/131852921-387d11d2-9676-4f34-9501-6a20a14e253d.png)
+
+_13. A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?_
+
+![image](https://user-images.githubusercontent.com/84418933/131870029-53881f40-32d0-4446-9894-5afbef694bb7.png)
 
 _15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 _ 0.25T2 y f1 _ 10 kHz, ¿cuales son los valores de T1, T2 y f2?_
 
@@ -54,11 +72,19 @@ _15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 _ 0.25
 
 ## 15-5 Relaciones angular y gráfica paras las ondas seno ##
 
+_19. Un voltaje sinusoidal tiene un valor de 50 V cuando a = 150°. ¿Qué valor tiene V..?_
+
+![image](https://user-images.githubusercontent.com/84418933/131870134-0a4c396c-5a29-4d71-8940-700d5f4c08b5.png)
+
 _21. Convierta los siguientes ángulos de grados a radianes:_
 
 ![image](https://user-images.githubusercontent.com/85728185/131855168-fa70376a-4f8e-497a-b76a-dd70a9ab4504.png)
 
 ## 15-6 Voltajes y corrientes como funciones del tiempo ##
+
+_25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando 1 = 5 us. Determine V.my dibuje la forma de onda._
+
+![image](https://user-images.githubusercontent.com/84418933/131870227-9395b593-689b-474f-ad62-cd4013fc8b85.png)
 
 _27. Calcule q en radianes por segundo para cada uno de los siguientes casos:_
 
